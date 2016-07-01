@@ -11,7 +11,8 @@ For more information about __Esh__, the paper, and a __demo__ of what the code a
 
 ### Instructions:
 1. Don't open the solution in VS just yet!
-2. Get <a href="https://github.com/boogie-org/boogie">_Boogie_</a>, build it, and copy following files to the `references/` directory:
+2. Get <a href="https://github.com/boogie-org/boogie">_Boogie_</a>, checkout and build at commit 'c8c15f672dc42fca1db9b0f20549ef49b48889e8'.
+3. Copy following files to the `references/` directory:
 ```
 AbsInt.dll
 Basetypes.dll
